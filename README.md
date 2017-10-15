@@ -1,5 +1,9 @@
 # AngularJS Material Design Toast Module (ngMaterialToast) #
 
+## Install as NPM Package
+
+Comming soon.
+
 ## Sample App Instructions
 
 ### Download and install NodeJS
@@ -15,3 +19,6 @@ $ npm run build
 
 ### Run Application (Development Webserver)
 $ npm start
+
+## About
+This small AngularJS Toast Module was developed as a request from the Hotmilhas company.
