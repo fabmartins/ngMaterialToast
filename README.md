@@ -2,7 +2,7 @@
 
 ## Install as NPM Package
 
-Comming soon.
+To be added.
 
 ## Sample App Instructions
 
@@ -21,4 +21,4 @@ $ npm run build
 $ npm start
 
 ## About
-This small AngularJS Toast Module was developed as a request from the Hotmilhas company.
+This is a small AngularJS Toast Module was developed as a request from a travel c.
