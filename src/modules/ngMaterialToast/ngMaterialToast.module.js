@@ -1,0 +1,1 @@
+const ngMaterialToastModule = angular.module('ngMaterialToast', ['ngAnimate']);

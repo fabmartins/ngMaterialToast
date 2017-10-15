@@ -1,0 +1,44 @@
+{
+  "name": "toastapp",
+  "version": "1.0.0",
+  "description": "Small Toast Application",
+  "keywords": [
+    "angularjs",
+    "toast",
+    "material design"
+  ],
+  "author": "Fabio Martins <fabiomartins89@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@uirouter/angularjs": "^1.0.6",
+    "angular": "^1.6.4",
+    "angular-animate": "^1.6.4",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-flatten": "^0.3.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-inject": "^4.2.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-rev": "^8.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sync": "^0.1.4",
+    "gulp-uglify": "^3.0.0",
+    "gulp-usemin": "^0.3.28",
+    "gulp-webserver": "^0.9.1",
+    "jquery": "^3.2.1",
+    "q": "^1.5.0",
+    "run-sequence": "^2.1.0",
+    "vinyl-paths": "^2.1.0"
+  },
+  "scripts": {
+    "preinstall": "npm config set loglevel=error",
+    "postinstall": "npm config set loglevel=http",
+    "start": "gulp --gulpfile ./run/gulp/gulpfile.js",
+    "build": "gulp build --gulpfile ./run/gulp/gulpfile.js"
+  }
+}

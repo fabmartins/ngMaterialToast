@@ -1,0 +1,6 @@
+<div class="container {{$ctrl.alignment}}">
+    <div ng-show="$ctrl.show" class="toast ng-hide" ng-click="$ctrl.onToastClick()">
+        <span>{{$ctrl.message}}</span>
+        <a ng-if="$ctrl.showAction" ng-click="$ctrl.onActionClick($event)">{{$ctrl.actionText}}</a>
+    </div>
+</div>
