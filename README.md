@@ -21,4 +21,4 @@ $ npm run build
 $ npm start
 
 ## About
-This is a small AngularJS Toast Module was developed as a request from a travel c.
+This is a small AngularJS Module which implements a toast using the Google Material Design Guidelines.
