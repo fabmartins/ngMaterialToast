@@ -1,8 +1,4 @@
-# README #
-
-## AngularJS Material Design Toast Module
-
-## ngMaterialToast 
+# AngularJS Material Design Toast Module (ngMaterialToast) #
 
 ## Sample App Instructions
 
