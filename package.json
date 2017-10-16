@@ -9,6 +9,10 @@
   ],
   "author": "Fabio Martins <fabiomartins89@gmail.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabmartins/ngMaterialToast.git"
+  },
   "devDependencies": {
     "@uirouter/angularjs": "^1.0.6",
     "angular": "^1.6.4",
